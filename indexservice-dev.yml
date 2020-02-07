@@ -6,10 +6,6 @@ spring:
       virtual-host: /czt
       username: czt
       password: 123
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8888/eureka/
 
 PRODUCT-SERVICE:
   ribbon:
