@@ -2,7 +2,7 @@ server:
   port: 9090
 spring:
    rabbitmq:
-      host: 192.168.206.129
+      host: 47.113.117.108
       virtual-host: /czt
       username: czt
       password: 123
